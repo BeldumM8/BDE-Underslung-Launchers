@@ -1,0 +1,23 @@
+$animsetinstance {
+    #template "DZ/anims/workspaces/player/player_main/player_main.ast"
+    #nparents 1
+    #parent "DZ/anims/workspaces/player/player_main/player_main_pistol.asi"
+    $animations {
+        "ActionOnce.FishingRodExtendErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Reload_Erc.anm"
+        "ActionOnce.FishingRodExtendCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Reload_Erc.anm"
+        "ActionOnce.FishingRodRetractErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Unload_Erc.anm"
+        "ActionOnce.FishingRodRetractCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Unload_Erc.anm"
+        "WeaponOperations.ErcRas.ChamberingOut" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_chambering_empty_gp25_ras.anm"
+        "WeaponOperations.ErcRas.Chambering_Closed" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_chambering_gp25_ras.anm"
+        "WeaponOperations.ErcRas.Fire" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_fire_gp25_ras.anm"
+        "WeaponOperations.ErcRas.FireUncocked" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_fire_empty_uncocked_gp25_ras.anm"
+        "WeaponOperations.ErcRas.ReloadAction_Closed" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_reload_action_uncocked_gp25_ras.anm"
+        "WeaponOperations.ErcRas.ReloadAction_Open" "BDE_UnderSlungLaunchers/Animations/GP25/p_erc_reload_action_cocked_gp25_ras.anm"
+        "WeaponOperations.PneRas.ChamberingOut" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_chambering_empty_gp25_ras.anm"
+        "WeaponOperations.PneRas.Chambering_Closed" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_chambering_gp25_ras.anm"
+        "WeaponOperations.PneRas.Fire" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_fire_gp25_ras.anm"
+        "WeaponOperations.PneRas.FireUncocked" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_fire_empty_uncocked_gp25_ras.anm"
+        "WeaponOperations.PneRas.ReloadAction_Closed" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_reload_action_uncocked_gp25_ras.anm"
+        "WeaponOperations.PneRas.ReloadAction_Open" "BDE_UnderSlungLaunchers/Animations/GP25/p_pne_reload_action_cocked_gp25_ras.anm"
+    }
+}

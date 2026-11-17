@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{7A258BFE8E5AA13E}BDE_UnderSlungLaunchers/Animations/Player/BDE_M203_Reload_Erc.anm"
+ Author "nickspc"
+ ChangeDate 1754019090
+ Configurations {
+  TXAResourceClass PC {
+   SourceFile "BDE_M203_Reload_Erc.txa"
+  }
+  TXAResourceClass XBOX_ONE : PC {
+  }
+  TXAResourceClass PS4 : PC {
+  }
+  TXAResourceClass LINUX : PC {
+  }
+ }
+}

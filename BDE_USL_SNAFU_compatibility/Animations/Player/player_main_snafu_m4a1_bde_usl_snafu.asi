@@ -1,0 +1,15 @@
+$animsetinstance {
+    #template "DZ/anims/workspaces/player/player_main/player_main.ast"
+    #nparents 1
+    #parent "SNAFU_Scripts/Animations/SNAFU_M4A1.asi"
+    $animations {
+        "ActionOnce.BatonExtendErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_M203_Reload_Erc.anm"
+        "ActionOnce.BatonExtendCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_M203_Reload_Erc.anm"
+        "ActionOnce.BatonRetractErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_M203_Unload_Erc.anm"
+        "ActionOnce.BatonRetractCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_M203_Unload_Erc.anm"
+        "ActionOnce.FishingRodExtendErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Reload_Erc.anm"
+        "ActionOnce.FishingRodExtendCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Reload_Erc.anm"
+        "ActionOnce.FishingRodRetractErc.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Unload_Erc.anm"
+        "ActionOnce.FishingRodRetractCro.Once" "BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Unload_Erc.anm"
+    }
+}

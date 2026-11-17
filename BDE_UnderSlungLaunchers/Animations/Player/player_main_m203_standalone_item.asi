@@ -1,0 +1,7 @@
+$animsetinstance {
+    #template "DZ/anims/workspaces/player/player_main/player_main.ast"
+    #nparents 1
+    #parent "BDE_UnderSlungLaunchers/Animations/GP25/player_main_gp25.asi"
+    $animations {
+    }
+}

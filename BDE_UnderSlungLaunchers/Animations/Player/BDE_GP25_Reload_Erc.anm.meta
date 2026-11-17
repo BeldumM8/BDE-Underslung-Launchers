@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{7B5F54CE39416496}BDE_UnderSlungLaunchers/Animations/Player/BDE_GP25_Reload_Erc.anm"
+ Author "nickspc"
+ ChangeDate -1838877422
+ Configurations {
+  TXAResourceClass PC {
+   SourceFile "BDE_GP25_Reload_Erc.txa"
+  }
+  TXAResourceClass XBOX_ONE : PC {
+  }
+  TXAResourceClass PS4 : PC {
+  }
+  TXAResourceClass LINUX : PC {
+  }
+ }
+}
